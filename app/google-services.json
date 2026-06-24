@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "819686988514",
+    "project_id": "androidfirebaseauthentic-1479f",
+    "storage_bucket": "androidfirebaseauthentic-1479f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819686988514:android:ed82382e3f3dc676bddcbb",
+        "android_client_info": {
+          "package_name": "lk.rush.firebaseauthentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsSC_Ab-Ohbgyw5jwlnGTl0v9ra_9SII8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
